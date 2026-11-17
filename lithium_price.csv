@@ -1,0 +1,4 @@
+period,price_usd_per_tonne,type,source
+2022 (peak),85000,observed,https://www.fleetmagazine.com/litio-dove-si-trova/
+2023,13500,observed,https://www.fleetmagazine.com/litio-dove-si-trova/
+Long-term estimate,11000,forecast,https://www.fleetmagazine.com/litio-dove-si-trova/
